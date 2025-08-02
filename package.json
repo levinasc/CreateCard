@@ -1,8 +1,8 @@
 {
-  "homepage": "https://levinasc.github.io/CreateCard",
-
+  
   "name": "organo",
   "version": "0.1.0",
+  "homepage": "https://levinasc.github.io/CreateCard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
